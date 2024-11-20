@@ -1,1 +1,2 @@
 # Natural-Disaster-Prediction
+NATURAL DISASTER PREDICTION is developed as a comprehensive machine learning framework that addresses data imbalance using SMOTE, ensures data privacy through Laplacian noise for differential privacy, and enhances interpretability with LIME and SHAP. The system leverages Random Forest and XGBoost classifiers to achieve robust predictive accuracy, while providing valuable insights into the critical factors contributing to disaster events.
